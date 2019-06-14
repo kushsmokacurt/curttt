@@ -89,3 +89,5 @@ description: "A trader's toolbox for creating trading bots on cryptocurrency exc
 
 # needed for sitemap.xml file only
 url: https://www.gdax.com
+
+theme: jekyll-theme-time-machine
